@@ -12,4 +12,4 @@ include:
 - calling c code from runtime languages like go or c#
 
 # Sources
-- (great video on the topic)[https://www.youtube.com/watch?v=XJC5WB2Bwrc]
+- [great video on the topic](https://www.youtube.com/watch?v=XJC5WB2Bwrc)
